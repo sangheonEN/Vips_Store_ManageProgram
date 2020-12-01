@@ -69,7 +69,7 @@
             // 
             // Adults_Plus
             // 
-            this.Adults_Plus.Location = new System.Drawing.Point(652, 191);
+            this.Adults_Plus.Location = new System.Drawing.Point(652, 199);
             this.Adults_Plus.Name = "Adults_Plus";
             this.Adults_Plus.Size = new System.Drawing.Size(75, 23);
             this.Adults_Plus.TabIndex = 2;
@@ -79,7 +79,7 @@
             // 
             // Kids_Plus
             // 
-            this.Kids_Plus.Location = new System.Drawing.Point(733, 191);
+            this.Kids_Plus.Location = new System.Drawing.Point(733, 199);
             this.Kids_Plus.Name = "Kids_Plus";
             this.Kids_Plus.Size = new System.Drawing.Size(75, 23);
             this.Kids_Plus.TabIndex = 3;
@@ -112,7 +112,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("맑은 고딕", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.label1.Location = new System.Drawing.Point(683, 167);
+            this.label1.Location = new System.Drawing.Point(683, 175);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(96, 21);
             this.label1.TabIndex = 7;
@@ -130,7 +130,7 @@
             // 
             // Adult_Minus
             // 
-            this.Adult_Minus.Location = new System.Drawing.Point(652, 220);
+            this.Adult_Minus.Location = new System.Drawing.Point(652, 228);
             this.Adult_Minus.Name = "Adult_Minus";
             this.Adult_Minus.Size = new System.Drawing.Size(75, 23);
             this.Adult_Minus.TabIndex = 9;
@@ -140,7 +140,7 @@
             // 
             // Kids_Minus
             // 
-            this.Kids_Minus.Location = new System.Drawing.Point(733, 220);
+            this.Kids_Minus.Location = new System.Drawing.Point(733, 228);
             this.Kids_Minus.Name = "Kids_Minus";
             this.Kids_Minus.Size = new System.Drawing.Size(75, 23);
             this.Kids_Minus.TabIndex = 10;
